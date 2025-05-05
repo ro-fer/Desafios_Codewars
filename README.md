@@ -9,6 +9,8 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | Desafío                             | Lenguaje | Qué hace                                                   |
 |-------------------------------------|----------|------------------------------------------------------------|
 | [Multiples of 3 or 5](euler/euler.py)| Python   | Suma los múltiplos de 3 o 5 que son menores que un número dado. Si el número es negativo, retorna 0.|
+| [Disemvowel Trolls](Quitar_vocales/quitar_vocales.py)   | Python   | Elimina todas las vocales de una cadena de texto (y no cuenta como vocal). |
+
 |
 ---
 
