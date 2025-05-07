@@ -14,6 +14,7 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Validar Pin](validar_pin/validar_pin.py)   | Python   | Verificar pin y decir si es valido o no |
 | [Pangrama](pangrama/Pangrama.py)   | Python   | Un **pangrama** es una oración que contiene **cada letra del alfabeto** al menos una vez. |
 | [Posicion Abecedario](posicion_abecedario/posicion_abecedario.py)   | Python   | Reemplazar por Posición en el Abecedario |
+| [Nro Narcisista](nro_Narcisista/nro_Narcisista.py)   | Python   | Un número narcisista es un número positivo que es igual a la suma de sus dígitos, donde cada dígito se eleva a la potencia del número de dígitos del número.|
 ---
 
 ## 🔧 Lenguajes utilizados
