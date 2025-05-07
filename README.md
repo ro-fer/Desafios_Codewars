@@ -12,7 +12,7 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Disemvowel Trolls](Quitar_vocales/quitar_vocales.py)   | Python   | Elimina todas las vocales de una cadena de texto (y no cuenta como vocal). |
 | [Enmascarar](enmascarar/enmascarar.py)   | Python   | Enmascare todo el texto excepto los últimos 4 caracteres. |
 | [Validar Pin](validar_pin/validar_pin.py)   | Python   | Verificar pin y decir si es valido o no |
-|
+| [Pangrama](pangrama/Pangrama.py)   | Python   | Un **pangrama** es una oración que contiene **cada letra del alfabeto** al menos una vez. |
 ---
 
 ## 🔧 Lenguajes utilizados
