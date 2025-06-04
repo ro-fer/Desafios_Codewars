@@ -16,6 +16,7 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Posicion Abecedario](posicion_abecedario/posicion_abecedario.py)   | Python   | Reemplazar por Posición en el Abecedario |
 | [Nro Narcisista](nro_Narcisista/nro_Narcisista.py)   | Python   | Un número narcisista es un número positivo que es igual a la suma de sus dígitos, donde cada dígito se eleva a la potencia del número de dígitos del número.|
 | [Raiz Digital](digital_root/digital_root.py)   | Python   | La raíz digital es la suma recursiva de todos los dígitos de un número hasta obtener un único dígito.|
+| [Codificador Cod Morse](cod_Morse/cod_morse.py)   | Python   | Codificador de codigo morse. |
 ---
 
 ## 🔧 Lenguajes utilizados
