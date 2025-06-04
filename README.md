@@ -15,6 +15,7 @@ Este es mi espacio de práctica personal con ejercicios de programación, comenz
 | [Pangrama](pangrama/Pangrama.py)   | Python   | Un **pangrama** es una oración que contiene **cada letra del alfabeto** al menos una vez. |
 | [Posicion Abecedario](posicion_abecedario/posicion_abecedario.py)   | Python   | Reemplazar por Posición en el Abecedario |
 | [Nro Narcisista](nro_Narcisista/nro_Narcisista.py)   | Python   | Un número narcisista es un número positivo que es igual a la suma de sus dígitos, donde cada dígito se eleva a la potencia del número de dígitos del número.|
+| [Raiz Digital](digital_root/digital_root.py)   | Python   | La raíz digital es la suma recursiva de todos los dígitos de un número hasta obtener un único dígito.|
 ---
 
 ## 🔧 Lenguajes utilizados
